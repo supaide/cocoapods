@@ -29,6 +29,12 @@
   "dependencies": {
     "Cordova": [
       ">= 4.0.0"
+    ],
+    "SSZipArchive": [
+      ">= 1.6.2"
+    ],
+    "AFNetworking": [
+      ">= 3.1"
     ]
   }
 }
